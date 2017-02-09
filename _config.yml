@@ -5,14 +5,14 @@
 # Site
 title: winko's note
 subtitle:
-description: winko's blog
+description: 不要用战术上的勤奋，掩盖战略上的懒惰<br/>不要用执行上的勤奋，掩盖思考上的懒惰
 author: winko
 language: zh-Hans
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://baiweiguo.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -68,15 +68,22 @@ sitemap:
 	path: sitemap.xml
 
 #添加搜索
-algolia:
-  applicationID: '78IKG31LCH'
-  apiKey: 'a8ad1912f94cefa9299a391c982fdc27'
-  adminApiKey: '1e469bbb65d4cc001838b75ba66e69a7'
-  indexName: 'winko_index'
-  chunkSize: 5000
+#algolia:
+#  applicationID: '78IKG31LCH'
+#  apiKey: 'a8ad1912f94cefa9299a391c982fdc27'
+#  adminApiKey: '1e469bbb65d4cc001838b75ba66e69a7'
+#  indexName: 'winko_index'
+#  chunkSize: 5000
 
 ## Themes: https://hexo.io/themes/
 theme: next
+
+social:
+  GitHub: https://github.com/baiweiguo
+#  Twitter: #
+#  Weibo: #
+#  douban: #
+#  zhihu: #
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
