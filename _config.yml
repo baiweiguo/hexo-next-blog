@@ -78,6 +78,8 @@ sitemap:
 ## Themes: https://hexo.io/themes/
 theme: next
 
+avatar: /images/me.png
+
 social:
   GitHub: https://github.com/baiweiguo
 #  Twitter: #
