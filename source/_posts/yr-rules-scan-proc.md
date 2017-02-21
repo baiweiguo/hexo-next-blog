@@ -1,8 +1,8 @@
 ---
 title: yara进程扫描api
 date: 2017-02-14 23:26:29
-tags: [C, yara, proc, api]
-categories: C
+tags: [c, yara, proc, api]
+categories: c
 ---
 
 　　[yara](https://github.com/VirusTotal/yara) 是一款开源匹配工具，使用其独特的规则语法用于信息匹配，yara规则可以用于文件及进程信息匹配。
