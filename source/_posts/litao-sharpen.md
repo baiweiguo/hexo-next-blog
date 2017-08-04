@@ -1,8 +1,8 @@
 ---
-title: litao-sharpen
-date: 2017-08-04 20:17:51
-tags:
-categories:
+title: 锐化
+date: 2017-08-01 01:00:25
+tags: ps
+categories: ps
 ---
 
 PS三种锐化效果：常规锐化，精细化锐化，质感锐化。------- 李涛《数码摄影后期高手之路》
