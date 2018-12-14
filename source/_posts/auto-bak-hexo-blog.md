@@ -41,7 +41,9 @@ git clone git@github.com:xxx/hexo-next-blog.git
 　　git clone成功后，安装hexo环境:
 ```sh
 npm install hexo
-npm install
+npm install -g hexo-cli
+npm install hexo-server --save    # hexo s
+npm install                       # 注意 hexo-next-blog/source/_posts目录下npm install，否则会出现404
 npm install hexo-deployer-git
 npm install --save shelljs   # 使用hexo d写文章时，自动备份时用
 ```
